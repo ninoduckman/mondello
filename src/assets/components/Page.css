@@ -1,0 +1,13 @@
+
+.dropdown{
+    color: red;
+  }
+.labels{
+  width: fit-content;
+  font-size: 1.5rem;
+}
+
+.label-input {
+  display: flex;
+  padding: 10px;
+}
